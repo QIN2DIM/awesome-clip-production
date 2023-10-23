@@ -1,4 +1,4 @@
-# awesome-clip
+# Awesome CLIP
 
 ## Preview Blog
 
