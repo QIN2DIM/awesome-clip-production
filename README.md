@@ -1,5 +1,7 @@
 # Awesome CLIP
 
+Awesome list for production on CLIP (Contrastive Language-Image Pre-Training).
+
 ## Preview Blog
 
 - https://blog.roboflow.com/cvpr-2023-highlights
